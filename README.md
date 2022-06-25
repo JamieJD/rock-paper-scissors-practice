@@ -1,1 +1,1 @@
-# rock-paper-scissors-practicr
+# rock-paper-scissors-practice
